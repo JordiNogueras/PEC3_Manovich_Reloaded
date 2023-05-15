@@ -1,12 +1,11 @@
-# PEC3: Visionando el futuro con las gafas de Manovich 
+# RETO ACTIVIDAD 3. Visionando el futuro con las gafas de Manovich: redescubriendo la hibridación
 
-### Recurso de aprendizaje de Cultura Digital 
+#### 20.644 - Cultura Digital aula 1
+
+Autor: Jordi Nogueras 
 
 
-Autor: 
-
-
-Fecha: 
+Fecha: 15/05/2023 
 
 ![Cultura Digital](https://miro.medium.com/max/1400/0*9PyyNvrO2PcD3KuU.png) 
 
