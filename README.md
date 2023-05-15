@@ -36,4 +36,4 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ----
 
-Licencia: CC BY-SA 4.0. Imágenes CC BY [Image by vectorjuice on Freepik](https://www.freepik.com/free-vector/business-analyst-with-laptop-idea-lightbulb-waymark-decision-management-enterprise-analysis-decision-it-tool-decision-system-concept-illustration_11668547.htm#query=teams%20flow&position=0&from_view=search&track=ais) [Image by storyset on Freepik](https://www.freepik.com/free-vector/devices-concept-illustration_5462824.htm#query=responsive&position=7&from_view=search&track=sph) 
+Licencia: CC BY-SA 4.0. Imágenes CC BY [Image by vectorjuice on Freepik](https://www.freepik.com/free-vector/business-analyst-with-laptop-idea-lightbulb-waymark-decision-management-enterprise-analysis-decision-it-tool-decision-system-concept-illustration_11668547.htm#query=teams%20flow&position=0&from_view=search&track=ais), y [Image by storyset on Freepik](https://www.freepik.com/free-vector/devices-concept-illustration_5462824.htm#query=responsive&position=7&from_view=search&track=sph) 
