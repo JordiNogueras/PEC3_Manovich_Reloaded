@@ -35,4 +35,4 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ----
 
-Licencia: Material Creative Commons desarrollado bajo licencia CC BY-SA 4.0. Imágenes CC BY [Tubik studio](https://blog.tubikstudio.com/how-to-create-original-flat-illustrations-designers-tips/) 
+Licencia: CC BY-SA 4.0. Imágenes CC BY [Image by vectorjuice on Freepik](https://www.freepik.com/free-vector/business-analyst-with-laptop-idea-lightbulb-waymark-decision-management-enterprise-analysis-decision-it-tool-decision-system-concept-illustration_11668547.htm#query=teams%20flow&position=0&from_view=search&track=ais)
