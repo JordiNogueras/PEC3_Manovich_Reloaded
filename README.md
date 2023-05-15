@@ -17,13 +17,14 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 
 ## Re-descubriendo la hibridacion: Slack
-![Slack Team Work](https://img.freepik.com/free-vector/business-analyst-with-laptop-idea-lightbulb-waymark-decision-management-enterprise-analysis-decision-it-tool-decision-system-concept-illustration_335657-2087.jpg)
+![Slack Team Work](https://img.freepik.com/free-vector/team-members-moving-cards-large-kanban-board_335657-4407.jpg)
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 
 
 ## Re-descubriendo la hibridacion: HTML5 y el diseño responsive
+![Responsive Design](https://img.freepik.com/free-vector/devices-concept-illustration_114360-131.jpg)
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
@@ -35,4 +36,4 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ----
 
-Licencia: CC BY-SA 4.0. Imágenes CC BY [Image by vectorjuice on Freepik](https://www.freepik.com/free-vector/business-analyst-with-laptop-idea-lightbulb-waymark-decision-management-enterprise-analysis-decision-it-tool-decision-system-concept-illustration_11668547.htm#query=teams%20flow&position=0&from_view=search&track=ais)
+Licencia: CC BY-SA 4.0. Imágenes CC BY [Image by vectorjuice on Freepik](https://www.freepik.com/free-vector/business-analyst-with-laptop-idea-lightbulb-waymark-decision-management-enterprise-analysis-decision-it-tool-decision-system-concept-illustration_11668547.htm#query=teams%20flow&position=0&from_view=search&track=ais) [Image by storyset on Freepik](https://www.freepik.com/free-vector/devices-concept-illustration_5462824.htm#query=responsive&position=7&from_view=search&track=sph) 
