@@ -29,11 +29,16 @@ Pero la evolución de la multimedia permitio que la hibridación generase nuevos
 ![Slack Team Work](https://img.freepik.com/free-vector/team-members-moving-cards-large-kanban-board_335657-4407.jpg)
 
 Según su propia definición, Slack es una aplicación de mensajería para empresas, aunque realmente es algo un poco más complejo y completo. Sin duda su finalidad es la comunicación de grupos de trabajo en el ámbito empresarial, pero gracias a la hibridación no se limitan a una comunicación estándar, sino que su objetivo es la transformación de esa manera de comunicación.
+
 Podríamos pensar que Slack no es más que un sistema mensajes entre sus usuarios, como una forma de agilizar los emails guardando las cadenas, como lo qué todos usamos hoy en día con nuestras varias aplicaciones de mensajería instantánea, como puede ser el gigante de Meta, WhatsApp. Si así fuera, no sería más que otro caso de remedición, con ciertas capacidades de multimedia, ya que se nos permite mediante los chats el envío de todo tipo de archivos.
+
 Pero consideramos Slack un ejemplo de hibridación, puesto que como herramienta ha logrado fusionar diferentes tecnologías, y además también diferentes enfoques de uso, creando una plataforma de comunicación de equipos ágil y eficiente.
+
 Slack combina características, de mensajería instantánea, de correo electrónico, y de las salas de chat de IRC, consiguiendo llegar a un nivel de comunicación altamente eficiente en el ecosistema empresarial para la comunicación de equipos sobre sus proyectos. Esta combinación ha generado entre sus usuarios lo que podría ser un nuevo medio y lenguaje de comunicación que permite todas las bondades de la inmediatez de un chat de mensajería instantánea, la trazabilidad de las conversaciones de una serie de correos electrónicos, y la capacidad de organización de los usuarios por  canales como en IRC. Además de todo esto, también permite el uso de videollamadas y tiene una serie de aplicaciones externas integradas dentro del software, como puede ser servicios como Google Calendar, Twitter, Mail Chimp.
+
 Esto permite que a la hora de trabajar, al ser mediante canales y salas de chat instantáneas, toda la información se encuentre unificada, teniendo al equipo de trabajo informado de cualquier cambio y necesidad del proyecto; pudiendo incluso incluir a personal externo a la organización dentro de las salas. Además, sus capacidades de integrar herramientas permiten también el volcado de esa información dentro de los chats de Slack.
 En conclusión, Slack es un claro ejemplo de hibridación desde la perspectiva de Manovich.
+
 Esta hibridación permite a los usuarios disfrutar de una experiencia de comunicación y colaboración más efectiva y eficiente en el entorno empresarial. Slack se ha convertido en un espacio híbrido donde convergen múltiples tecnologías, prácticas y culturas para facilitar el trabajo en equipo y potenciar la productividad en el mundo moderno.
 
 
