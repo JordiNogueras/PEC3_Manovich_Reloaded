@@ -16,13 +16,13 @@ Fecha: 15/05/2023
 Anteriormente, hemos podido ver lo que era la teoría de medios, y que gracias a la evolución técnica del hardware que compone un ordenador, este se convirtió en la gran máquina de medios que Kay y Goldberg advirtieron. Este ha sido capaz de remediar diversos medios, otorgándoles un sin fin de funcionalidades que los mejora y amplían. En este proceso de remediación los nuevos medios digitales en muchos casos han ocupado el puesto de sus antecesores.
 Con este proceso de remediación y digitalización de los medios ya asentada y aceptada casi como el estándar de uso los siguientes pasos dentro del ecosistema que había generado la máquina de medios ordenador fue comenzar a generar nuevos medios inexistentes.
 
-> "Una vez los ordenadores se transformaron en cómodas casas donde habitaban un sinfín de medios simulados y nuevos, es natural esperar que empezaran a generar híbridos"
-> *El software toma el mando. Lev Manovich*
+> *"Una vez los ordenadores se transformaron en cómodas casas donde habitaban un sinfín de medios simulados y nuevos, es natural esperar que empezaran a generar híbridos"*
+> *(Manovich, 2013)*
 
 Gracias a lo que se conocio como multimedia, se hizo la primera aproximación al fenomeno que serviria para generar los nuevos medios, como seria la hibridación. La multimedia permitio ver como podia coexistir varios medios con sus propios codigos en un mismo ambiente o contexto, un ejemplo de estas tecnicas multimedia podian ser las enciplodeias multimedia donde se completaba la información tanto con elementos de texto, como videos incluso graficos y esquemas. 
 Pero la evolución de la multimedia permitio que la hibridación generase nuevos medios donde todas las tecnicas coexistian y se retroalimentaban formando un nuevo producto con su propio canal, sus propios codigos y formas de comunicar.
-> "En los medios hibridos confluyen lenguajes previos y diferenciados. Intercambian propiedades, crean nuevas estructuras e interaccionan a los niveles más profundos"
-> *El software toma el mando. Lev Manovich*
+> *"En los medios hibridos confluyen lenguajes previos y diferenciados. Intercambian propiedades, crean nuevas estructuras e interaccionan a los niveles más profundos"*
+> *(Manovich, 2013)*
 
 
 ## Re-descubriendo la hibridacion: Slack
