@@ -25,6 +25,7 @@ Pero la evolución de la multimedia permitio que la hibridación generase nuevos
 > *(Manovich, 2013)*
 
 
+
 ## Re-descubriendo la hibridacion: Slack
 ![Slack Team Work](https://img.freepik.com/free-vector/team-members-moving-cards-large-kanban-board_335657-4407.jpg)
 
@@ -43,14 +44,17 @@ Esta hibridación permite a los usuarios disfrutar de una experiencia de comunic
 
 
 
+
 ## Re-descubriendo la hibridacion: HTML5 y el diseño responsive
 ![Responsive Design](https://img.freepik.com/free-vector/devices-concept-illustration_114360-131.jpg)
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 
+
 ## Conclusiones
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
 
 
 ### Bibliografía
