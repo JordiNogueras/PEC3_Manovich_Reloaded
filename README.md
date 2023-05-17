@@ -26,7 +26,7 @@ Pero la evolución de la multimedia permitio que la hibridación generase nuevos
 
 
 
-## Re-descubriendo la hibridacion: Slack
+## Re-descubriendo la hibridación: Slack
 ![Slack Team Work](https://img.freepik.com/free-vector/team-members-moving-cards-large-kanban-board_335657-4407.jpg)
 
 Según su propia definición, Slack es una aplicación de mensajería para empresas, aunque realmente es algo un poco más complejo y completo. Sin duda su finalidad es la comunicación de grupos de trabajo en el ámbito empresarial, pero gracias a la hibridación no se limitan a una comunicación estándar, sino que su objetivo es la transformación de esa manera de comunicación.
@@ -45,7 +45,7 @@ Esta hibridación permite a los usuarios disfrutar de una experiencia de comunic
 
 
 
-## Re-descubriendo la hibridacion: HTML5 y el diseño responsive
+## Re-descubriendo la hibridación: HTML5 y el diseño responsive
 ![Responsive Design](https://img.freepik.com/free-vector/devices-concept-illustration_114360-131.jpg)
 
 Para poder en cierta forma entender y así analizar si el diseño responsive es una forma de hibridación que encaje en la visión que  nos ofrece Manovich sobre la misma, deberemos tener unas pinceladas de que es HTML y su evolución.
