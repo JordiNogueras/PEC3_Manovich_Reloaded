@@ -5,7 +5,7 @@
 Autor: Jordi Nogueras 
 
 
-Fecha: 17/05/2023 
+Fecha: 18/05/2023 
 
  
 
@@ -65,8 +65,11 @@ Como conclusión decir que en mi opinión, quizás no es un ejemplo claro de hib
 
 
 ## Conclusiones
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Podemos entender la hibridación en el ámbito de la cultura digital como la combinación y fusión de diferentes medios, lenguajes, que acaban generando nuevas medios. Manovich explica que la hibridación es condición de la era digital, ya que la tecnología permite la combinación y manipulación de diferentes medios, textos, imágenes, sonido y video. Mezclandose para dar lugar a nuevas experiencias interactivas.
 
+Tanto Slack como el diseño web responsive son ejemplos de cómo diferentes elementos, tecnologías y técnicas se fusionan para crear nuevas formas de interacción con el usuario. En el caso de Slack, la hibridación la encontramos en la combinación de tecnologías de comunicación; permitiendo a los usuarios comunicarse de una manera más eficiente, más rápida, dinámica y colaborativa. En cuanto al responsive además de la combinación de tecnologías sobretodo se puede ver en el enfoque y las tecnicas de diseño que se suman para facilitar la experiencia de usuario adaptandola a diferentes dispositivos y contextos.
+
+En definitiva la visión de Manovich aplicada a nuestros casos de estudio nos muestra cómo la combinación y fusión de elementos que producen innovaciones en nuevas formas de comunicación y diseño en la era digital.
 
 
 ### Bibliografía
@@ -76,7 +79,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 * **¿Qué es Slack?**. Slack [consultado: 17/05/23] Disponible en [https://slack.com/intl/es-es/help/articles/115004071768-%C2%BFQu%C3%A9-es-Slack-](https://slack.com/intl/es-es/help/articles/115004071768-%C2%BFQu%C3%A9-es-Slack-)
 * **Las historia de Slack, convertida en infografía**. Histografias [consultado: 17/05/23] Disponible en [https://histografias.com/historia_slack_infografia_salesforce.html](https://histografias.com/historia_slack_infografia_salesforce.html)
 * **Slack**. Wikipedia[consultado: 17/05/23] Disponible en [https://es.wikipedia.org/wiki/Slack_(software)](https://es.wikipedia.org/wiki/Slack_%28software%29)
-
+* **Diseño web adaptable**. Wikipedia[consultado: 18/05/23] Disponible en [https://es.wikipedia.org/wiki/Dise%C3%B1o_web_adaptable](https://es.wikipedia.org/wiki/Dise%C3%B1o_web_adaptable)
+* **La historia del Responsive Web Design**. ATURA[consultado: 18/05/23] Disponible en [https://www.atura.mx/blog/la-historia-del-responsive-web-design](https://www.atura.mx/blog/la-historia-del-responsive-web-design)
 
 ----
 
